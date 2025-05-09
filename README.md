@@ -1,6 +1,7 @@
 
 
 
+
 # Prime Numbers Summation in Java
 
 This Java program reads an array of numbers, identifies prime numbers, and calculates their sum. It optimizes prime checking using the square root method for better efficiency. The program ensures proper input handling and prints the prime numbers found.
